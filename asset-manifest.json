@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carousel/static/css/main.07ffb70c.chunk.css",
+    "main.js": "/carousel/static/js/main.26543e96.chunk.js",
+    "main.js.map": "/carousel/static/js/main.26543e96.chunk.js.map",
+    "runtime-main.js": "/carousel/static/js/runtime-main.3e6e875f.js",
+    "runtime-main.js.map": "/carousel/static/js/runtime-main.3e6e875f.js.map",
+    "static/css/2.e49e09ab.chunk.css": "/carousel/static/css/2.e49e09ab.chunk.css",
+    "static/js/2.c26bfe61.chunk.js": "/carousel/static/js/2.c26bfe61.chunk.js",
+    "static/js/2.c26bfe61.chunk.js.map": "/carousel/static/js/2.c26bfe61.chunk.js.map",
+    "index.html": "/carousel/index.html",
+    "precache-manifest.5093bfb3a172789074d9aa9061da0905.js": "/carousel/precache-manifest.5093bfb3a172789074d9aa9061da0905.js",
+    "service-worker.js": "/carousel/service-worker.js",
+    "static/css/2.e49e09ab.chunk.css.map": "/carousel/static/css/2.e49e09ab.chunk.css.map",
+    "static/css/main.07ffb70c.chunk.css.map": "/carousel/static/css/main.07ffb70c.chunk.css.map",
+    "static/js/2.c26bfe61.chunk.js.LICENSE.txt": "/carousel/static/js/2.c26bfe61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6e875f.js",
+    "static/css/2.e49e09ab.chunk.css",
+    "static/js/2.c26bfe61.chunk.js",
+    "static/css/main.07ffb70c.chunk.css",
+    "static/js/main.26543e96.chunk.js"
+  ]
+}
